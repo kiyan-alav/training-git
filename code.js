@@ -7,3 +7,5 @@ const obj = {
   name: "Kiyan",
   age: 25,
 };
+
+const getMe = () => {};
