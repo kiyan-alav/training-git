@@ -7,3 +7,7 @@ const obj = {
   name: "Kiyan",
   age: 25,
 };
+
+const register = () => {};
+
+const login = () => {};
