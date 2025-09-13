@@ -9,3 +9,7 @@ const obj = {
 };
 
 const getMe = () => {};
+
+const register = () => {};
+
+const login = () => {};
