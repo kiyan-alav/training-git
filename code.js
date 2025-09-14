@@ -17,4 +17,7 @@ const login = () => {};
 const test = () => {
   console.log("Hi");
   console.log("How are you?");
+  console.log("thanks");
 };
+
+const test2 = "aaaaaaaaaaaaaaaaaa"
