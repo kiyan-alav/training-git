@@ -13,3 +13,5 @@ const getMe = () => {};
 const register = () => {};
 
 const login = () => {};
+
+const test = () => console.log("Hi")
