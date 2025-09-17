@@ -9,6 +9,9 @@ body {
   justify-content: center;
 }
 
-h2{
+h2 {
   color: #222;
+}
+h1 {
+  color: red;
 }
