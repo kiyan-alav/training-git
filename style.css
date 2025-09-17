@@ -2,3 +2,9 @@ body {
   background: red;
   display: flex;
 }
+
+.center{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
