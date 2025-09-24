@@ -14,3 +14,5 @@ const getCourse = () => true;
 
 const addArticle = () => true;
 const removeArticle = () => true;
+
+const movie = () => false
