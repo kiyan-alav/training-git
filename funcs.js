@@ -9,5 +9,5 @@ const getMe = () => true;
 
 const removeCourse = (id) => id;
 const addCourse = () => true;
-const editCourse = () => false;
-const getCourse = () => false;
+const editCourse = () => true;
+const getCourse = () => true;
