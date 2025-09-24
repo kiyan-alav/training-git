@@ -11,3 +11,6 @@ const removeCourse = (id) => id;
 const addCourse = () => true;
 const editCourse = () => true;
 const getCourse = () => true;
+
+const addArticle = () => true;
+const removeArticle = () => true;
